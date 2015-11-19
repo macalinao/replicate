@@ -1,0 +1,7 @@
+schema:
+
+  name:
+    type: string
+    label: Name
+    hint: (eg. handlebars)
+    required: true
